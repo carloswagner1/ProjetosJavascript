@@ -5,7 +5,7 @@
 1. Urna Eletrônica (Simulação) - [voto.netlify.app](https://voto.netlify.app/)
 2. Slider
 3. Validador de Formulário
-4. Calculadora (Desenvolvido em Curdo da HCode)
+4. Calculadora (Desenvolvido em Curdo da HCode) - (https://calculatorhcode.netlify.app/)
 
 
 
